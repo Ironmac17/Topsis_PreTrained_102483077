@@ -146,6 +146,8 @@ After applying the TOPSIS method, the final ranking was obtained.
 
 * * * * *
 
+![Result Graph](image.png)
+
 🏆 Conclusion
 -------------
 
