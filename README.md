@@ -84,6 +84,9 @@ Each model was evaluated using five criteria:
 | Inference Time | 0.20 |
 | Model Size | 0.20 |
 
+The weights were chosen to balance model performance and computational efficiency.
+Accuracy was given the highest weight as it reflects overall prediction correctness. F1-score and precision were included to capture the quality and balance of predictions. Inference time and model size were assigned significant weights to account for real-world deployment constraints such as speed and resource usage.
+This balanced weighting ensures that the selected model performs well while remaining efficient and practical.
 * * * * *
 
 📊 Model Evaluation Results (Decision Matrix)
